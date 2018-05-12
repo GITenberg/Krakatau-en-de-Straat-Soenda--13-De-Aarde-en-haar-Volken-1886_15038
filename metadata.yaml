@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34511'
     url: http://www.gutenberg.org/2009/agents/34511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15038#Krakatau-en-de-Straat-Soenda--13-De-Aarde-en-haar-Volken-1886
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
